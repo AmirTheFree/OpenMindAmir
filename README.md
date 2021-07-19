@@ -22,5 +22,5 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 * [Omid+ (Improved HTML Template)](https://github.com/mwxgaf/omid-plus) 🌐
 * [MWXPy (Python Library)](https://github.com/mwxgaf/mwxpy/wiki/Documentation) 🐍
 * [More projects on Github ...](https://github.com/mwxgaf) 🐈
-* 
+
 ### You can see my skills + full information at the bottom of my [resume](http://mwxgaf.ir) ✔️
