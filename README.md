@@ -1,16 +1,24 @@
-### Hi there 👋
+In the name of Allah
 
-<!--
-**mwxgaf/mwxgaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Amirreza Aliakbari
 
-Here are some ideas to get you started:
+## Senior Full-Stack Developer ➕ Software Enginner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What can I do?
+
+* 🌐 Design and Develop various types of websites, web services and web applications with different languages and frameworks as a senior Full-Stack developer.
+* ⏱️ Optimize web projects in terms of SEO, security, performance, beauty, responsiveness & etc.
+* 🖌️ Design and Develop Applications for mobile platforms (Android, IOS & WP), Desktop (Windows, Mac & GNU/Linux), Web and CLI. 
+* ✍️ General skills (Typing, Translation, Image & video editing, Office & etc).
+
+### Who am I?
+
+An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is busy by working or learning 💻
+
+### Portfolio
+
+* [PyLocalHost (Web Application)](https://mwxgaf.github.io/pylocalhost)
+* [MadarKharj (Mobile & Web Application)](https://mwxgaf.github.io/madarkharj)
+* [More projects on Github ...](https://github.com/mwxgaf)
+
+### You can see my skills + full information at the bottom of my [resume](http://mwxgaf.ir) ✔️
