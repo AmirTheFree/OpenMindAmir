@@ -17,8 +17,10 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 
 ### Portfolio
 
-* [PyLocalHost (Web Application)](https://mwxgaf.github.io/pylocalhost)
-* [MadarKharj (Mobile & Web Application)](https://mwxgaf.github.io/madarkharj)
-* [More projects on Github ...](https://github.com/mwxgaf)
-
+* [PyLocalHost (Web Application)](https://mwxgaf.github.io/pylocalhost) 💻
+* [MadarKharj (Mobile & Web Application)](https://mwxgaf.github.io/madarkharj) 📱
+* [Omid+ (Improved HTML Template)](https://github.com/mwxgaf/omid-plus) 🌐
+* [MWXPy (Python Library)](https://github.com/mwxgaf/mwxpy/wiki/Documentation) 🐍
+* [More projects on Github ...](https://github.com/mwxgaf) 🐈
+* 
 ### You can see my skills + full information at the bottom of my [resume](http://mwxgaf.ir) ✔️
