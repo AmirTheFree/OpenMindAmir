@@ -2,14 +2,14 @@ In the name of Allah
 
 # Amirreza Aliakbari
 
-## Senior Full-Stack Developer ➕ Software Enginner
+## Senior Full-Stack Developer ➕ DevOps Enginner
 
 ### What can I do?
 
-* 🌐 Design and Develop various types of websites, web services and web applications with different languages and frameworks as a senior Full-Stack developer.
-* ⏱️ Optimize web projects in terms of SEO, security, performance, beauty, responsiveness & etc.
-* 🖌️ Design and Develop Applications for mobile platforms (Android, IOS & WP), Desktop (Windows, Mac & GNU/Linux), Web and CLI. 
-* ✍️ General skills (Typing, Translation, Image & video editing, Office & etc).
+* 🌐 Design, develop & optimize various types of websites, web services & web applications with different languages & frameworks as a **Senior** Full-Stack developer.
+* 👨🏻‍💼 Architect, Plan, Manage, Engineer, Develop, Test & Maintain a project as a comprehensive leader.
+* 📲 Design & Develop Applications for mobile platforms (Android, IOS & WP), Desktop (Windows, Mac & GNU/Linux), Web & CLI. 
+* 🖌 General (Typing, Translation, Image & video editing, Office & etc).
 
 ### Who am I?
 
