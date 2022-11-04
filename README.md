@@ -1,27 +1,20 @@
-In the name of Allah
+![top](https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74)
+
+**In the name of Allah**
 
 # Amirreza Aliakbari
 
-## Senior Full-Stack Developer ➕ DevOps Enginner
-
-### What can I do?
-
-* 🌐 Design, develop & optimize various types of websites, web services & web applications with different languages & frameworks as a **Senior** Full-Stack developer.
-* 👨🏻‍💼 Architect, Plan, Manage, Engineer, Develop, Test & Maintain a project as a comprehensive leader.
-* 📲 Design & Develop Applications for mobile platforms (Android, IOS & WP), Desktop (Windows, Mac & GNU/Linux), Web & CLI. 
-* 🖌 General (Typing, Translation, Image & video editing, Office & etc).
+### Senior Full-Stack Developer ➕ DevOps Enginner ➕ UI Designer ➕ Application Developer
 
 ### Who am I?
 
 An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is busy by working or learning 💻
 
-### Portfolio
+### [💝 Support Me](http://mwxgaf.ir/support) | [💼 Visit My Portfolio](http://mwxgaf.ir/portfolio) | [📝 My Blog](https://virgool.io/@mwxgaf) | [✉️ Email Me!](mailto:mwxgaf@yahoo.com)
 
-* [FoodBooker (Org FoodBooking management system ...)](https://mwxgaf.github.io) 🍴
-* [PyLocalHost (Web Application)](https://mwxgaf.github.io/pylocalhost) 💻
-* [MadarKharj (Mobile & Web Application)](https://mwxgaf.github.io/madarkharj) 📱
-* [Omid+ (Improved HTML Template)](https://github.com/mwxgaf/omid-plus) 🌐
-* [MWXPy (Python Library)](https://github.com/mwxgaf/mwxpy/wiki/Documentation) 🐍
-* [👉 Click here for all projects + description ... 😎](https://mwxgaf.github.io)
+[![twitter](https://camo.githubusercontent.com/10de78e98e122a3a100ffdcecb1c52bf78c6ab4eb4969496effa141079a518a3/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f747769747465725f70726b622e706e67)](https://twitter.com/mwxgaf)
+[![youtube](https://raw.githubusercontent.com/mwxgaf/mwxgaf/main/youtube.png)](https://www.youtube.com/channel/UCkruCaFkk-2kSPJYCoxjwxwf)
+[![telegram](https://camo.githubusercontent.com/aacc73365a45429abb6625dc8b15aeed30243885175298c8ba7dc36bf7e65e19/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f74656c656772616d5f713437752e706e67)](https://telegram.me/mwxgaf)
 
-### You can see my skills + full information at the bottom of my [resume](http://mwxgaf.ir) ✔️
+
+![bottom](https://camo.githubusercontent.com/3c3769a2ae8612480297625e275cb03951c12f3ae00e00491b45c267afea4b4d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572)
