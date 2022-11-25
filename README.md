@@ -78,7 +78,7 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 ![skill](https://img.shields.io/badge/Android-experienced-blue?logo=Android)
 ![skill](https://img.shields.io/badge/WindowsNT-senior-success?logo=Windows)
 ![category](https://img.shields.io/badge/devops-9cf?style=for-the-badge)
-![skill](https://img.shields.io/badge/Git-master-blue?logo=Git)
+![skill](https://img.shields.io/badge/Git-master-blueviolet?logo=Git)
 ![skill](https://img.shields.io/badge/Docker-experienced-blue?logo=Docker)
 ![skill](https://img.shields.io/badge/GitHub-experienced-blue?logo=GitHub)
 ![skill](https://img.shields.io/badge/👷‍♂️SOLID&DPs-experienced-blue?logo=settings)
