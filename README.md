@@ -4,7 +4,7 @@
 
 # Amirreza Aliakbari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3000&font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Senior+Full-Stack+Developer;DevOps+Engineer;UI+Designer;Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2500&font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Senior+Full-Stack+Developer;DevOps+Engineer;UI+Designer;Application+Developer)](https://git.io/typing-svg)
 
 ### Who am I?
 
