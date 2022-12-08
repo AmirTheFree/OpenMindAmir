@@ -23,6 +23,8 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 
 ### Skills
 
+![My Skills](https://skillicons.dev/icons?i=python,js,php,c,cpp,dart,bash,ts,css,html,regex,markdown,flask,nodejs,nuxtjs,django,express,nginx,wordpress,graphql,vue,tailwind,bootstrap,sass,jquery,flutter,electron,qt,postgresql,redis,mongo,sqlite,mysql,linux,git,docker,github,gitlab,stackoverflow,arduino,ps,pr,vscode,vim,androidstudio,discord,twitter,instagram,linkedin)
+
 ![category](https://img.shields.io/badge/languages-9cf?style=for-the-badge)
 ![skill](https://img.shields.io/badge/Python-master-blueviolet?logo=Python)
 ![skill](https://img.shields.io/badge/JavaScript-master-blueviolet?logo=JavaScript)
