@@ -15,8 +15,11 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 ### [💝 Support Me](http://mwxgaf.ir/support) | [💼 Visit My Portfolio](http://mwxgaf.ir/portfolio) | [📝 My Blog](https://virgool.io/@mwxgaf) | [✉️ Email Me!](mailto:mwxgaf@yahoo.com)
 
 [![twitter](https://camo.githubusercontent.com/10de78e98e122a3a100ffdcecb1c52bf78c6ab4eb4969496effa141079a518a3/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f747769747465725f70726b622e706e67)](https://twitter.com/mwxgaf)
-[![youtube](https://raw.githubusercontent.com/mwxgaf/mwxgaf/main/youtube.png)](https://www.youtube.com/channel/UCkruCaFkk-2kSPJYCoxjwxwf)
 [![telegram](https://camo.githubusercontent.com/aacc73365a45429abb6625dc8b15aeed30243885175298c8ba7dc36bf7e65e19/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f74656c656772616d5f713437752e706e67)](https://telegram.me/mwxgaf)
+[![linkedin](https://camo.githubusercontent.com/8dff8e214623c4750c7235bd2b678f242b89232391d6cf0cf03aecac3a3090c4/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f6c696e6b6564696e5f616d776e2e706e67)](https://linkedin.com/in/mwxgaf)
+[![instagram](https://camo.githubusercontent.com/cf4dcff8ee36097d060599098ea3f3c299ff9ce94d2d36e9d00fb73ef7e90062/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f696e7374616772616d5f36646a7a2e706e67)](https://instagram.com/mwxgaf)
+[![youtube](https://raw.githubusercontent.com/mwxgaf/mwxgaf/main/youtube.png)](https://www.youtube.com/channel/UCkruCaFkk-2kSPJYCoxjwxwf)
+
 
 ### Skills
 
@@ -88,6 +91,7 @@ An 🇮🇷 Iranian boy 🎂 born in 2003 Nov 17, who loves ICT and always is bu
 ![skill](https://img.shields.io/badge/BlockChain-senior-success?logo=bitcoin)
 ![skill](https://img.shields.io/badge/Arduino-experienced-blue?logo=Arduino)
 ![skill](https://img.shields.io/badge/🔌Electronics-intern-red?logo=power)
+![skill](https://img.shields.io/badge/Office-master-blueviolet?logo=microsoft)
 ![category](https://img.shields.io/badge/media-9cf?style=for-the-badge)
 ![skill](https://img.shields.io/badge/📷PhotoShop-experienced-blue?logo=photoshop)
 ![skill](https://img.shields.io/badge/🎥Premiere-master-blueviolet?logo=premiere)
